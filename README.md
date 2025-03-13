@@ -9,8 +9,6 @@ List Filtering: The search field filters country names dynamically based on user
 
 UI Enhancements: Used containers with styled borders and colors to improve the UI.
 
-Async Programming: Implemented future API call functionality for potential scalability.
-
 
 Tools & Technologies Used:-
 
